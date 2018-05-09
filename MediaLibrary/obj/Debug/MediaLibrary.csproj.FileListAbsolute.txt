@@ -1,0 +1,596 @@
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\MediaLibrary-project\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+C:\Users\Julie Ann Moore\Desktop\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-6\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OverdueForm.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFineForm.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeDetails.resources
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Downloads\MediaLibrary-ver7\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFineForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeDetails.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OverdueForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary-vs8\MediaLibrary\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Framework.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\stdole.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE80.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj80.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.MSXML.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj2.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFineForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeDetails.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OutstandingItems.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OverdueForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.PatronConditionHist.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-ver8\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFinesHist.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.manifest
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.application
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Framework.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\stdole.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE80.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj80.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.MSXML.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj2.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.MediaLibrary.exe.config
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFineForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFinesHist.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeDetails.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OutstandingItems.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OverdueForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.PatronConditionHist.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe.manifest
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.application
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\CCC\Fall2017\Info2780 SQL Server\FromJulie\MediaLibrary-Active\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.mdf
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary_log.ldf
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Properties\Settings.settings
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.manifest
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.application
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\stdole.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\EnvDTE80.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj80.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\VSLangProj2.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe.config
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Checkout.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Condition.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFineForm.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.ConditionFinesHist.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeDetails.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DamageFeeView.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Details.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.DetailsForm.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Fines.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.FinesView.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LibraryDatabase.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaItem.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaTitle.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MediaType.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OutstandingItems.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.OverdueForm.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.PatronConditionHist.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Patrons.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.searchForm.resources
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe.manifest
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.application
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\Users\Julie Ann Moore\Desktop\medial library final\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
